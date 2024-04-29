@@ -45,7 +45,7 @@
 `gradle clean test`
 
 ## Generate Allure Report
-- Execute the following commands (after finishing the project run)  
+- Execute the following commands on the project directory (after finishing the project run)  
 `allure generate allure-results --clean`  
 `allure serve allure-results --clean`
 
