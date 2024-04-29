@@ -1,4 +1,4 @@
-# App Automation of Google Calculator Using Selenium TestNG & Appium
+# App Automation of Google Calculator Using Selenium, TestNG & Appium
 
 ## Steps
 - Open Calculator App
